@@ -1,0 +1,182 @@
+[
+	{
+		"abbr": "AN",
+		"name": "Andaman and Nicobar Islands",
+		"capital": "Port Blair"
+	},
+	{
+		"abbr": "AP",
+		"name": "Andhra Pradesh",
+		"capital": "Hyderabad(proposed Capital Amravati)"
+	},
+	{
+		"abbr": "AR",
+		"name": "Arunachal Pradesh",
+		"capital": "Itanagar"
+	},
+	{
+		"abbr": "AS",
+		"name": "Assam",
+		"capital": "Dispur"
+	},
+	{
+		"abbr": "BR",
+		"name": "Bihar",
+		"capital": "Patna"
+	},
+	{
+		"abbr": "CG",
+		"name": "Chandigarh",
+		"capital": ""
+	},
+	{
+		"abbr": "CH",
+		"name": "Chattisgarh",
+		"capital": "Raipur"
+	},
+	{
+		"abbr": "DN",
+		"name": "Dadra and Nagar Haveli",
+		"capital": ""
+	},
+	{
+		"abbr": "DD",
+		"name": "Daman and Diu",
+		"capital": ""
+	},
+	{
+		"abbr": "DL",
+		"name": "Delhi",
+		"capital": ""
+	},
+	{
+		"abbr": "GA",
+		"name": "Goa",
+		"capital": "Panaji"
+	},
+	{
+		"abbr": "GJ",
+		"name": "Gujrat",
+		"capital": "Gandhinagar"
+	},
+	{
+		"abbr": "HR",
+		"name": "Haryana",
+		"capital": "Chandigarh"
+	},
+	{
+		"abbr": "HP",
+		"name": "Himachal Pradesh",
+		"capital": "Shimla"
+	},
+	{
+		"abbr": "JK",
+		"name": "Jammu and Kashmir",
+		"capital": "Srinagar"
+	},
+	{
+		"abbr": "JH",
+		"name": "Jharkhand",
+		"capital": "Ranchi"
+	},
+	{
+		"abbr": "KA",
+		"name": "Karnataka",
+		"capital": "Bengaluru"
+	},
+	{
+		"abbr": "KL",
+		"name": "Kerala",
+		"capital": "Thiruvananthapuram"
+	},
+	{
+		"abbr": "LA",
+		"name": "Ladakh",
+		"capital": ""
+	},
+	{
+		"abbr": "LD",
+		"name": "Lakshadweep",
+		"capital": ""
+	},
+	{
+		"abbr": "MP",
+		"name": "Madhya Pradesh",
+		"capital": "Bhopal"
+	},
+	{
+		"abbr": "MH",
+		"name": "Maharashtra",
+		"capital": "Mumbai"
+	},
+	{
+		"abbr": "MN",
+		"name": "Manipur",
+		"capital": "Imphal"
+	},
+	{
+		"abbr": "ML",
+		"name": "Meghalaya",
+		"capital": "Shillong"
+	},
+	{
+		"abbr": "MZ",
+		"name": "Mizoram",
+		"capital": "Aizwal"
+	},
+	{
+		"abbr": "NL",
+		"name": "Nagaland",
+		"capital": "Kohima"
+	},
+	{
+		"abbr": "OR",
+		"name": "Odhisa",
+		"capital": "Bhubneshwar"
+	},
+	{
+		"abbr": "PY",
+		"name": "Puducherry",
+		"capital": ""
+	},
+	{
+		"abbr": "PB",
+		"name": "Punjab",
+		"capital": "Chandigarh"
+	},
+	{
+		"abbr": "RJ",
+		"name": "Rajasthan",
+		"capital": "Jaipur"
+	},
+	{
+		"abbr": "SK",
+		"name": "Sikkim",
+		"capital": "Ganngtok"
+	},
+	{
+		"abbr": "TN",
+		"name": "Tamil Nadu",
+		"capital": "Chennai"
+	},
+	{
+		"abbr": "TS",
+		"name": "Telangana",
+		"capital": "Hyderabad"
+	},
+	{
+		"abbr": "UP",
+		"name": "Uttar Pradesh",
+		"capital": "Lucknow"
+	},
+	{
+		"abbr": "UK",
+		"name": "Uttarakhand",
+		"capital": "Dehradun"
+	},
+	{
+		"abbr": "WB",
+		"name": "West Bengal",
+		"capital": "Kolkata"
+	}
+]
